@@ -62,7 +62,7 @@ Em breve adicionarei gráficos e widgets do GitHub quando meu perfil estiver mai
 
 ## 📫 Como me encontrar?
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/anderson-passos-8877b7354/  
-- 📧 **E-mail:** andersonpassos.ccc@gmail.com 
+- 📧 **E-mail:** andersonpassos.dev123@gmail.com 
 
 ---
 
