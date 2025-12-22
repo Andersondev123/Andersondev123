@@ -27,7 +27,7 @@ Estou em constante evolução e sempre buscando boas práticas, código limpo e 
 ### **Ferramentas**
 - Git & GitHub  
 - Railway  
-- aPanel / cPanel (configurações básicas)
+
 
 ---
 
