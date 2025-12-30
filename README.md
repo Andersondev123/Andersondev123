@@ -1,10 +1,13 @@
 # 🧑‍💻 Anderson Passos  
-**Desenvolvedor Web | JavaScript | TypeScript | React | Node.js**
+**Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React**
 
-Olá! Sou um desenvolvedor web focado em construir interfaces modernas e aplicações funcionais utilizando **JavaScript**, **React** e **TypeScript**.  
-Atualmente estou me aprofundando em **Node.js / Express** para atuar como fullstack, criando APIs e aplicações completas.
+Olá! Sou Desenvolvedor Front-end Júnior com experiência prática no desenvolvimento de interfaces modernas e responsivas utilizando **HTML**, **CSS**, **JavaScript (ES6+)**, **React** e **TypeScript**.
 
-Estou em constante evolução e sempre buscando boas práticas, código limpo e projetos que reforcem minha base.
+Tenho foco em boas práticas de código, organização de projetos, consumo de **APIs REST** e construção de aplicações funcionais e bem estruturadas.  
+Venho consolidando minha base através de projetos práticos, sempre buscando evolução técnica, clareza de código e resolução de problemas.
+
+Atualmente, meu foco está voltado para **Front-end**, com interesse em oportunidades como **Desenvolvedor Front-end Júnior** ou **Estágio**.
+
 
 ---
 
@@ -72,6 +75,7 @@ Em breve adicionarei gráficos e widgets do GitHub quando meu perfil estiver mai
 ---
 
 ## 🎯 Objetivo
-Atuar como **Desenvolvedor Web / Fullstack Júnior**, contribuindo com projetos reais enquanto continuo evoluindo nas tecnologias que estudo diariamente.
+Atuar como **Desenvolvedor Front-end Júnior** ou **Estagiário**, contribuindo com projetos reais, fortalecendo minha base em Front-end e evoluindo continuamente nas tecnologias que utilizo no dia a dia.
+
 
 ---
