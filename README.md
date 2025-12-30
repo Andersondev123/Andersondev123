@@ -21,11 +21,12 @@ Atualmente, meu foco está voltado para **Front-end**, com interesse em oportuni
 - React Router  
 - Vite  
 
-### **Backend**
-- Node.js  
-- Express (estudando atualmente)  
-- APIs REST  
-- JSON Server  
+### **Backend (noções)**
+- Node.js (fundamentos)
+- Express.js (conceitos básicos)
+- APIs REST
+- JSON Server
+
 
 ### **Ferramentas**
 - Git & GitHub  
