@@ -41,6 +41,11 @@ Aplicação de tarefas utilizando React, TypeScript, Tailwind e armazenamento no
 Sistema completo para uploads e gerenciamento de álbuns e fotos.  
 ➡ **Código:** https://github.com/Andersondev123/gallery-plus  
 
+### 🔹 **Portfólio Pessoal (HTML + CSS)**
+Landing page responsiva desenvolvida com HTML semântico e CSS moderno, com foco em layout, responsividade e boas práticas.  
+➡ **Código:** https://github.com/Andersondev123/landing-page-html-css  
+➡ **Preview:** https://andersondev123.github.io/landing-page-html-css/
+
 ### 🔹 **Refund (JS)**
 Sistema simples de validação e envio de informações.  
 ➡ **Código:** https://github.com/Andersondev123/refund  
