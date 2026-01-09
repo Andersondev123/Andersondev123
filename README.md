@@ -76,7 +76,7 @@ Em breve adicionarei gráficos e widgets do GitHub quando meu perfil estiver mai
 ---
 
 ## 🎯 Objetivo
-Atuar como **Desenvolvedor Front-end Júnior** ou **Estagiário**, contribuindo com projetos reais, fortalecendo minha base em Front-end e evoluindo continuamente nas tecnologias que utilizo no dia a dia.
+Atuar como **Desenvolvedor Front-end Júnior**, contribuindo com projetos reais, fortalecendo minha base em Front-end e evoluindo continuamente nas tecnologias que utilizo no dia a dia.
 
 
 ---
