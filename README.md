@@ -6,7 +6,7 @@ Olá! Sou Desenvolvedor Front-end Júnior com experiência prática no desenvolv
 Tenho foco em boas práticas de código, organização de projetos, consumo de **APIs REST** e construção de aplicações funcionais e bem estruturadas.  
 Venho consolidando minha base através de projetos práticos, sempre buscando evolução técnica, clareza de código e resolução de problemas.
 
-Atualmente, meu foco está voltado para **Front-end**, com interesse em oportunidades como **Desenvolvedor Front-end Júnior** ou **Estágio**.
+Atualmente, meu foco está voltado para **Front-end**, com interesse em oportunidades como **Desenvolvedor Front-end Júnior**.
 
 
 ---
