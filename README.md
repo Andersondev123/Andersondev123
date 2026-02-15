@@ -1,7 +1,7 @@
 # 🧑‍💻 Anderson Passos  
-**Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React**
+**Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React | Next.js**
 
-Olá! Sou Desenvolvedor Front-end com experiência prática no desenvolvimento de aplicações web modernas e responsivas utilizando HTML, CSS, JavaScript (ES6+), React e TypeScript.
+Olá! Sou Desenvolvedor Front-end com experiência prática no desenvolvimento de aplicações web modernas e responsivas utilizando HTML, CSS, JavaScript (ES6+), React, Next.js e TypeScript.
 
 Atuo com componentização, gerenciamento de estado com React Hooks, consumo de APIs REST e organização de projetos seguindo boas práticas de código. Possuo projetos em produção que demonstram domínio de fluxo de dados, tipagem com TypeScript e integração frontend com APIs.
 
@@ -15,7 +15,8 @@ Tenho foco em clareza de código, manutenção, evolução contínua e entrega d
 ### **Frontend**
 - HTML5, CSS3, TailwindCSS  
 - JavaScript (ES6+)  
-- React.js  
+- React.js
+- Next.js
 - TypeScript  
 - React Router  
 - Vite  
@@ -60,11 +61,6 @@ Ferramenta para conversão de valores entre moedas.
 ### 🔹 **Hairday (JS)**
 Sistema de agendamento para barbearia.  
 ➡ **Código:** https://github.com/Andersondev123/hairday  
-
----
-
-## 📊 Estatísticas do GitHub
-Em breve adicionarei gráficos e widgets do GitHub quando meu perfil estiver mais completo.
 
 ---
 
