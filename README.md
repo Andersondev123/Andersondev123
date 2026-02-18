@@ -21,10 +21,12 @@ Tenho foco em clareza de código, manutenção, evolução contínua e entrega d
 - React Router  
 - Vite  
 
-### **Backend (noções)**
+### **Backend (fundamentos)**
 - Node.js (fundamentos)
 - Express.js (conceitos básicos)
 - APIs REST
+- Banco de Dados (conceitos básicos)
+- SQL (em aprendizado)
 - JSON Server
 
 
