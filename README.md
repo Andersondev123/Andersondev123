@@ -43,6 +43,10 @@ Tenho foco em clareza de código, manutenção, evolução contínua e entrega d
 Aplicação de tarefas utilizando React, TypeScript, Tailwind e armazenamento no localStorage.  
 ➡ **Código:** https://github.com/Andersondev123/todo-list  
 
+### 🔹 tarefas-next (Next + TypeScript)**
+Aplicação web para organização de estudos e tarefas com autenticação via Google + Firebase.
+➡ **Código:** https://github.com/Andersondev123/tarefas-next
+
 ### 🔹 **Gallery Plus (Fullstack – React + Node + Railway)**
 Sistema completo para uploads e gerenciamento de álbuns e fotos.  
 ➡ **Código:** https://github.com/Andersondev123/gallery-plus  
