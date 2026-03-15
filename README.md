@@ -22,8 +22,8 @@ Tenho foco em clareza de código, manutenção, evolução contínua e entrega d
 - Vite  
 
 ### **Backend (fundamentos)**
-- Node.js (fundamentos)
-- Express.js (conceitos básicos)
+- Node.js
+- Express.js
 - APIs REST
 - Banco de Dados
 - SQL
