@@ -1,5 +1,5 @@
 # 🧑‍💻 Anderson Passos  
-**Desenvolvedor Front-end Júnior | JavaScript | TypeScript | React | Next.js**
+**Desenvolvedor Front-end | JavaScript | TypeScript | React | Next.js**
 
 Olá! Sou Desenvolvedor Front-end com experiência prática no desenvolvimento de aplicações web modernas e responsivas utilizando HTML, CSS, JavaScript (ES6+), React, Next.js e TypeScript.
 
