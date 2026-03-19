@@ -15,7 +15,6 @@ Tenho foco em código limpo, manutenção, performance e construção de soluç�
 - HTML5, CSS3, TailwindCSS  
 - JavaScript (ES6+)  
 - React.js
-- Next.js
 - TypeScript  
 - React Router  
 - Vite  
