@@ -1,5 +1,5 @@
 # 🧑‍💻 Anderson Passos  
-**Desenvolvedor Front-end | React • TypeScript • Integração com APIs**
+**Desenvolvedor Fullstack | React • Node.js • TypeScript • APIs REST**
 
 Desenvolvedor com foco em aplicações web utilizando React, TypeScript e integração com APIs. Experiência prática na construção de interfaces modernas, consumo de serviços REST e organização de aplicações escaláveis.
 
