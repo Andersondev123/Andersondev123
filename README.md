@@ -35,6 +35,14 @@ Atualmente focado em desenvolvimento fullstack JavaScript, arquitetura de backen
 ---
 
 ## 📂 Projetos em Destaque
+###🔹 **Node Task API (Node.js + Express + TypeScript)**
+
+API REST para gerenciamento de tarefas com operações de CRUD, utilizando Node.js, Express e TypeScript. O projeto implementa rotas, middlewares para validação, tratamento de erros e uso de status HTTP seguindo padrão REST.
+➡ Código: https://github.com/Andersondev123/node-task-api
+
+### 🔹 **Gallery Plus (Fullstack – React + Node + Railway)**
+Aplicação fullstack para gerenciamento de álbuns e fotos, com integração entre frontend em React e backend em Node.js, incluindo upload, listagem e remoção de imagens.  
+➡ **Código:** https://github.com/Andersondev123/gallery-plus  
 
 ### 🔹 **Todo List (React + TypeScript)**
 Aplicação de tarefas utilizando React, TypeScript, Tailwind e armazenamento no localStorage.  
@@ -43,10 +51,6 @@ Aplicação de tarefas utilizando React, TypeScript, Tailwind e armazenamento no
 ### 🔹 **tarefas-next (Next + TypeScript)**
 Aplicação web para organização de estudos e tarefas com autenticação via Google + Firebase.
 ➡ **Código:** https://github.com/Andersondev123/tarefas-next
-
-### 🔹 **Gallery Plus (Fullstack – React + Node + Railway)**
-Aplicação fullstack para gerenciamento de álbuns e fotos, com integração entre frontend em React e backend em Node.js, incluindo upload, listagem e remoção de imagens.  
-➡ **Código:** https://github.com/Andersondev123/gallery-plus  
 
 ### 🔹 **Portfólio Pessoal (HTML + CSS)**
 Landing page responsiva desenvolvida com HTML semântico e CSS moderno, com foco em layout, responsividade e boas práticas.  
