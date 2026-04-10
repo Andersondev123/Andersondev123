@@ -38,15 +38,15 @@ Foco em evolução contínua em arquitetura de software, boas práticas e desenv
 
 ## 📂 Projetos em Destaque
 
-###🔹 **Restaurant System API (Node.js + TypeScript + PostgreSQL)**
-API REST completa para gerenciamento de pedidos, categorias e produtos, com autenticação JWT, upload de imagens e fluxo de pedidos (criação, envio e finalização).
+### 🔹 **Restaurant System API (Node.js + TypeScript + PostgreSQL)**
+API REST para gerenciamento de pedidos, categorias e produtos, com autenticação JWT, upload de imagens e fluxo completo de pedidos (criação, envio e finalização), seguindo arquitetura em camadas.
 ➡ Código: https://github.com/Andersondev123/restaurant-system-api
 
 ### 🔹 **Gallery Plus (Fullstack – React + Node + Railway)**
 Aplicação fullstack para gerenciamento de álbuns e fotos, com integração entre frontend em React e backend em Node.js, incluindo upload, listagem e remoção de imagens.  
 ➡ **Código:** https://github.com/Andersondev123/gallery-plus  
 
-###🔹 **Node Task API (Node.js + Express + TypeScript)**
+### 🔹 **Node Task API (Node.js + Express + TypeScript)**
 API REST para gerenciamento de tarefas com operações de CRUD, utilizando Node.js, Express e TypeScript. O projeto implementa rotas, middlewares para validação, tratamento de erros e uso de status HTTP seguindo padrão REST.
 ➡ Código: https://github.com/Andersondev123/node-task-api
 
@@ -63,10 +63,6 @@ Landing page responsiva desenvolvida com HTML semântico e CSS moderno, com foco
 ➡ **Código:** https://github.com/Andersondev123/landing-page-html-css  
 ➡ **Preview:** https://andersondev123.github.io/landing-page-html-css/
 
-### 🔹 **Refund (JS)**
-Sistema simples de validação e envio de informações.  
-➡ **Código:** https://github.com/Andersondev123/refund  
-
 ---
 
 ## 📫 Como me encontrar?
@@ -76,6 +72,6 @@ Sistema simples de validação e envio de informações.
 ---
 
 ## 🎯 Objetivo
-Atuar como Desenvolvedor Front-end, Back-end ou Fullstack, trabalhando no desenvolvimento de aplicações web, APIs, integrações entre sistemas e soluções de software.
+Atuar como Desenvolvedor Fullstack, contribuindo no desenvolvimento de aplicações web, APIs e integrações, com foco em código limpo, arquitetura e soluções escaláveis.
 
 ---
