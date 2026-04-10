@@ -1,11 +1,13 @@
 # 🧑‍💻 Anderson Passos  
 **Desenvolvedor Fullstack | React • Node.js • TypeScript • APIs REST**
 
-Desenvolvedor Fullstack com foco em aplicações web utilizando React no frontend e Node.js no backend. Experiência prática na construção de interfaces web, criação de APIs REST, integração com banco de dados e desenvolvimento de aplicações fullstack.
+Desenvolvedor Fullstack com foco em aplicações web modernas utilizando React no frontend e Node.js no backend.
 
-Tenho experiência com JavaScript, TypeScript, React e Node.js, trabalhando com consumo e criação de APIs, CRUD completo, autenticação, integração entre frontend e backend e organização de projetos visando manutenção e escalabilidade.
+Experiência prática na construção de APIs REST, autenticação de usuários, integração com banco de dados e organização de aplicações em arquitetura escalável (controllers, services e middlewares).
 
-Atualmente focado em desenvolvimento fullstack JavaScript, arquitetura de backend, APIs REST e integração de sistemas.
+Atuação no desenvolvimento de projetos fullstack com fluxo completo entre frontend e backend, incluindo consumo de APIs, regras de negócio e persistência de dados.
+
+Foco em evolução contínua em arquitetura de software, boas práticas e desenvolvimento de aplicações prontas para produção.
 ---
 
 ## 🚀 Tecnologias que uso no dia a dia
@@ -36,6 +38,10 @@ Atualmente focado em desenvolvimento fullstack JavaScript, arquitetura de backen
 
 ## 📂 Projetos em Destaque
 
+###🔹 **Restaurant System API (Node.js + TypeScript + PostgreSQL)**
+API REST completa para gerenciamento de pedidos, categorias e produtos, com autenticação JWT, upload de imagens e fluxo de pedidos (criação, envio e finalização).
+➡ Código: https://github.com/Andersondev123/restaurant-system-api
+
 ### 🔹 **Gallery Plus (Fullstack – React + Node + Railway)**
 Aplicação fullstack para gerenciamento de álbuns e fotos, com integração entre frontend em React e backend em Node.js, incluindo upload, listagem e remoção de imagens.  
 ➡ **Código:** https://github.com/Andersondev123/gallery-plus  
@@ -60,14 +66,6 @@ Landing page responsiva desenvolvida com HTML semântico e CSS moderno, com foco
 ### 🔹 **Refund (JS)**
 Sistema simples de validação e envio de informações.  
 ➡ **Código:** https://github.com/Andersondev123/refund  
-
-### 🔹 **Convert (JS)**
-Ferramenta para conversão de valores entre moedas.  
-➡ **Código:** https://github.com/Andersondev123/convert  
-
-### 🔹 **Hairday (JS)**
-Sistema de agendamento para barbearia.  
-➡ **Código:** https://github.com/Andersondev123/hairday  
 
 ---
 
